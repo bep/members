@@ -9,14 +9,6 @@
   twitter: DerVonDenBergen
   web:     demont.is
 
-- name:    Peter Northup
-  github:  eudinaesis
-  web:     pnorthup.me
-
-- name:    Victor Björklund                 
-  github:  victorbjorklund                  
-  twitter: bjorklundvictor  
-  
 - name:    Floor Drees                 
   github:  floord                 
   twitter: floordrees  
@@ -55,13 +47,33 @@
   github:  cssence
   twitter: cssence
   web:     cssence.com
-
-- name:    Peter Varga
-  github:  peet86
-  twitter: vargapeti
-  web:     vargapeter.com
   
 - name:    Simon Reinsperger
   github:  abisz
   twitter: simon_rsp
   web:     piedcode.com
+
+
+
+
+
+
+###
+##  in-progress members
+##   if you're still intersted in joining, please ping @viennahtml or talk in person at the meetup ;-)
+##    you have not accepted the github member invitation (sorry, it got canceled)
+
+#  
+#- name:    Peter Varga
+#  github:  peet86
+#  twitter: vargapeti
+#  web:     vargapeter.com
+#
+#- name:    Peter Northup
+#  github:  eudinaesis
+#  web:     pnorthup.me
+#
+#- name:    Victor Björklund                 
+#  github:  victorbjorklund                  
+#  twitter: bjorklundvictor  
+#  
